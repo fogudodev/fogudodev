@@ -10,6 +10,7 @@ Bem-vindo ao meu perfil do GitHub! 👋 Sou um desenvolvedor full stack apaixona
   - Python
   - JavaScript (Node.js)
   - TypeScript (JavaScript)
+  - PHP
 
 - **Frameworks e Bibliotecas:**
   - Flask (Python)
