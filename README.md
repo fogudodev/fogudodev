@@ -1,34 +1,62 @@
-# Lucas Daniel
+### Hello friends! 👋
 
-## Desenvolvedor Full Stack | Python | JavaScript
+Here's some of what I love to do.
 
-Bem-vindo ao meu perfil do GitHub! 👋 Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e eficientes. Tenho experiência tanto com o backend em Python quanto com o frontend em JavaScript.
+<img align="center" width="45" alt="about" src="https://user-images.githubusercontent.com/60492975/180334286-6ca7aa12-c985-42f5-ad18-398af59e3bdb.png"/>
 
-### Habilidades Técnicas
 
-- **Linguagens de Programação:**
-  - Python
-  - JavaScript (Node.js)
-  - TypeScript (JavaScript)
-  - PHP
+<img align="right" width="300" height="270" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" />
 
-- **Frameworks e Bibliotecas:**
-  - Flask (Python)
-  - Django (Python)
-  - React (JavaScript & TypeScript)
-  - React Native (JavaScript & TypeScript)
-  - Express (JavaScript)
+```JavaScript
+function Frontend(){
+ const name = "Lucas Daniel Faria"
 
-- **Bancos de Dados:**
-  - PostgreSQL
-  - MongoDB
-  - MySql
+ const action = "Frontend Developer"
+ 
+ let primarySkillSet = {
+   mobile: 'React Native',
+   Web: 'React.Js',
+   Desktop: 'Python'
+ }
+ let languages = listOf("HTML & CSS", "JavaScript", "ReactJS", "React Native", "Angular") 
 
-- **Controle de Versão:**
-  - Git
+}
+```
 
-### Contribuições e Feedback
+## **Languages and Tools:**  
 
-Se você tiver alguma sugestão, correção ou apenas quiser trocar ideias, fique à vontade para abrir uma issue ou entrar em contato diretamente. Estou sempre aberto a novas oportunidades e colaborações!
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-Obrigado por visitar o meu perfil! 🚀
+
+
+## **Statistics Github**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasDniel&theme=radical&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LukasDniel&show_icons=true&theme=radical&line_height=27" alt="Lukas Daniel github stats"/>
+</a>
+
+[website]: https://ogcode.com.br/
+[youtube]: https://www.youtube.com/user/ogcode/
+[instagram]: https://www.instagram.com/monter_dev/
+[linkedin]: https://www.linkedin.com/in/lucas-faria-757321129/
+<br>
+
+#### **Social Networks!**
+
+<img align="center" width="15" height="15" src="https://user-images.githubusercontent.com/60492975/180339465-52e33424-7046-4d21-a70c-e39b8a072e9e.png" alt="Lukas Daniel site"/> [website][website] **|** 
+<img align="center" width="15" height="15" src="https://user-images.githubusercontent.com/60492975/180339115-00f9e7e6-7d1d-4d6f-91c9-c0476dbe4701.png" alt="Lukas Daniel youtube"/> [youtube][youtube] **|** 
+<img align="center" width="15" height="15" src="https://user-images.githubusercontent.com/60492975/180338985-965eb0f7-3a22-4501-97b7-3fbc4ded3772.png" alt="Lukas Daniel insta"/> [instagram][instagram] **|** 
+<img align="center" width="15" height="15" src="https://user-images.githubusercontent.com/60492975/180339252-4a604cf0-7dbe-4a34-a08e-b15ce462f246.png" alt="Lukas Daniel linkedin"/> [linkedin][linkedin]
